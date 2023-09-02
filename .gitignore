@@ -2,3 +2,5 @@ node_modules
 prisma
 dist
 .env
+src/test.ts
+.idea
